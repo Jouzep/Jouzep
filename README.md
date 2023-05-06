@@ -7,7 +7,7 @@
     <li><a href="#Media"> Media </a></li>
   </ul>
 </body>
-  <ul><p id="Stats"><strong><u style="color:Tomato> Stats </u></strong></p></ul>
+  <ul><p id="Stats"><strong><u> Stats </u></strong></p></ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jouzep&show_icons=true&theme=radical)
 
