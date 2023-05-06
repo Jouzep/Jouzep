@@ -12,6 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jouzep&show_icons=true&theme=radical)
 
   <ul><p id="Stats"><strong><u> Languages </u></strong></p></ul>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jouzep&langs_count=8&theme=radical)
 
   <ul><p id="Tools"><strong><u> Tools </u></strong</p></ul>
