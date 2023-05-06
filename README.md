@@ -26,7 +26,7 @@
     
     
   <p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/joseph-yu-9b1329229/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/joseph-yu-9b1329229/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
    </p>
