@@ -19,7 +19,7 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,c,cpp,haskell,rust,html,css," />
+      <img src="https://skillicons.dev/icons?i=github,git,c,cpp,haskell,python,rust,html,css," />
     </a>
   </p>
   <ul><p id="Media"><strong><u> Media </u></strong</p></ul>
