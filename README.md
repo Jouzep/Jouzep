@@ -16,7 +16,7 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,c,cpp,angular,html,css,ts" />
+      <img src="https://skillicons.dev/icons?i=git,c,cpp,haskell,rust,html,css," />
     </a>
   </p>
   <ul><p id="Media"><strong><u> Media </u></strong</p></ul>
