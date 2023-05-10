@@ -8,9 +8,13 @@
   </ul>
 </body>
   <ul><p id="Stats"><strong><u> Stats </u></strong></p></ul>
+  <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jouzep&show_icons=true&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jouzep&theme=radical)
+ 
+![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jouzep&theme=radical)
 
+</div>
   <ul><p id="Stats"><strong><u> Languages </u></strong></p></ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jouzep&langs_count=8&theme=radical)
