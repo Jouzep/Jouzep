@@ -11,8 +11,8 @@
   <div>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jouzep&theme=radical)
- 
-![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jouzep&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jouzep&show_icons=true&theme=radical)
 
 </div>
   <ul><p id="Stats"><strong><u> Languages </u></strong></p></ul>
